@@ -9,7 +9,7 @@ const Education = [
         name: "Bachelor of Engineering - Information Technology",
         year: "Sep2021-present",
         align: "right",
-        image: "../public/images/ADIT.jpg",
+        image: "../../public/images/ADIT.jpg",
     },
     {
     school: "Abhijat Vidhyavihar, Ahmedabad",
